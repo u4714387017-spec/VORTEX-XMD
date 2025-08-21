@@ -9,12 +9,12 @@ module.exports = {
     // ==============================
     //          SESSION
     // ==============================
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "HansTz&P4oT0BhQ#l-9-TdL9qZwnxB46SwIE7qPM3Uq24o6Du5oM4aZcX70",
 
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "32474094329",
     OWNER_NAME: process.env.OWNER_NAME || "HansTech",
     DEV: process.env.DEV || "255760774888",
 
